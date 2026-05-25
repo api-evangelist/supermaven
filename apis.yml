@@ -1,0 +1,70 @@
+aid: supermaven
+name: Supermaven
+description: >-
+  Supermaven was an AI code completion tool founded by Jacob Jackson
+  (previously co-founder of Tabnine) and known for shipping the first
+  code completion product with a 1,000,000-token context window — over
+  thirty times the context of contemporary copilots — backed by the
+  in-house Babble model and roughly 250 ms response latency. Supermaven
+  delivered plugins for VS Code, JetBrains IDEs, and Neovim, plus a chat
+  surface that proxied GPT-4o, Claude 3.5 Sonnet, and GPT-4 alongside
+  inline completions, style adaptation, and codebase-aware suggestions.
+  Anysphere — the company behind the Cursor AI code editor — acquired
+  Supermaven on 12 November 2024 to power Cursor's next-generation Tab
+  model, and on 21 November 2025 Supermaven was formally sunset:
+  subscribers received prorated refunds, agent/chat features were
+  retired, VS Code users were migrated to Cursor, and free autocomplete
+  inference continues for existing JetBrains and Neovim users for the
+  foreseeable future. There is no public developer API, OpenAPI spec,
+  or SDK — Supermaven shipped as an IDE plugin product, and its
+  long-context completion technology now lives inside Cursor.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Code Completion
+  - Developer Tools
+  - IDE Plugins
+  - Long Context
+  - Foundation Models
+  - Babble
+  - Autocomplete
+  - VS Code
+  - JetBrains
+  - Neovim
+  - Cursor
+  - Acquired
+  - Sunset
+url: https://raw.githubusercontent.com/api-evangelist/supermaven/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://supermaven.com
+  - type: Pricing
+    url: https://supermaven.com/pricing
+  - type: Download
+    url: https://supermaven.com/download
+  - type: Blog
+    url: https://supermaven.com/blog
+  - type: About
+    url: https://supermaven.com/about
+  - type: Login
+    url: https://supermaven.com/login
+  - type: Announcement
+    url: https://supermaven.com/blog/supermaven-joins-cursor
+  - type: Sunset
+    url: https://supermaven.com/blog/sunsetting-supermaven
+  - type: GitHub
+    url: https://github.com/supermaven-inc
+  - type: NeovimPlugin
+    url: https://github.com/supermaven-inc/supermaven-nvim
+  - type: Acquirer
+    url: https://www.cursor.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

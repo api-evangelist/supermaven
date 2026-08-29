@@ -19,6 +19,17 @@ description: >-
   or SDK — Supermaven shipped as an IDE plugin product, and its
   long-context completion technology now lives inside Cursor.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

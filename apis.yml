@@ -58,7 +58,6 @@ tags:
   - Neovim
   - Cursor
   - Acquired
-  - Sunset
 tags_raw:
   - AI
   - Code Completion
@@ -73,7 +72,6 @@ tags_raw:
   - Neovim
   - Cursor
   - Acquired
-  - Sunset
 url: https://raw.githubusercontent.com/api-evangelist/supermaven/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
@@ -107,3 +105,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sunset
